@@ -7,3 +7,4 @@ HWID_NOT_SET:675330414490943488
 RbxAnalyticsService:GetClientId():1020684373504299029
 c1c45400-66d6-4bb3-8e24-ddffc9352614:1020684373504299029
 local RbxAnalyticsService = game:GetService("RbxAnalyticsService")  local clientId = RbxAnalyticsService:GetClientId()  setclipboard(clientId):370495634198757376
+54F371D6-E960-4CB3-9573-E4180847ACAA:370495634198757376
